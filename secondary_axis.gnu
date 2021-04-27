@@ -23,7 +23,7 @@ set y2label '{/:Bold Secondary data}' offset -2.5,0,0 rotate by 270
 #set autoscale  y
 #set autoscale y2
 
-sset xrange [0:1]
+set xrange [0:1]
 set x2range [0:1]
 set yrange [0:150]
 set y2range [0:1130]
